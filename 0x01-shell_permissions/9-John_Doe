@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script sets the permissions of the file named hello to -rwxr-x-wx.
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
